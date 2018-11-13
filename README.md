@@ -1,4 +1,4 @@
-#Maratona Linux
+# Maratona Linux
 
 Este repositório trata dos pacotes gerados para o PPA do Maratona Linux.
 
@@ -28,6 +28,6 @@ maratona-desktop-virtual com o comando:
 sudo apt-get install maratona-desktop-virtual
 ```
 
-#Compilando os pacotes
+# Compilando os pacotes
 
 WIP
